@@ -6,7 +6,7 @@
   (target-time 140)
   (sector
     (name "main")
-    (music "music/airship_remix.ogg")
+    (music "music/antarctic/airship_remix.ogg")
     (ambient-light 0.6370947 0.6370947 0.6370947)
     (bonusblock
       (script "found_block(\"longestriver\")")

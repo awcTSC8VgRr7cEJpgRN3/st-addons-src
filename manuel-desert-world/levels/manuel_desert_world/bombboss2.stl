@@ -6,7 +6,7 @@
   (target-time 195)
   (sector
     (name "main")
-    (music "music/fortress.ogg")
+    (music "music/castle/fortress.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)
@@ -342,7 +342,7 @@
   )
   (sector
     (name "inside")
-    (music "music/fortress.ogg")
+    (music "music/castle/fortress.ogg")
     (ambient-light 1 1 1)
     (bonusblock
       (script "")
@@ -966,7 +966,7 @@
   )
   (sector
     (name "boss")
-    (music "music/battle_theme.ogg")
+    (music "music/misc/battle_theme.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")

@@ -6,7 +6,7 @@
   (target-time 120)
   (sector
     (name "main")
-    (music "music/chipdisko.ogg")
+    (music "music/antarctic/chipdisko.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)

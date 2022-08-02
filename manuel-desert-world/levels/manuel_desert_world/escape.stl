@@ -6,7 +6,7 @@
   (target-time 53)
   (sector
     (name "main")
-    (music "music/fortress.ogg")
+    (music "music/castle/fortress.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)
@@ -398,7 +398,7 @@ third <- true
   )
   (sector
     (name "outside")
-    (music "music/chipdisko.ogg")
+    (music "music/antarctic/chipdisko.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)

@@ -6,7 +6,7 @@
   (target-time 60)
   (sector
     (name "main")
-    (music "music/voc-daytime2.ogg")
+    (music "music/antarctic/voc-daytime2.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)

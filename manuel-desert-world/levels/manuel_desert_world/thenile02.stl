@@ -6,7 +6,7 @@
   (target-time 135)
   (sector
     (name "main")
-    (music "music/cave.ogg")
+    (music "music/antarctic/cave.ogg")
     (ambient-light 1 1 1)
     (bonusblock
       (script "found_block(\"sandfall\")")

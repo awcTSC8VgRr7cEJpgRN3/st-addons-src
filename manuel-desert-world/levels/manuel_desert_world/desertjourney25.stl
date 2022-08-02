@@ -6,7 +6,7 @@
   (target-time 200)
   (sector
     (name "main")
-    (music "music/darkforestkeep.ogg")
+    (music "music/castle/darkforestkeep.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")
@@ -231,7 +231,7 @@
   )
   (sector
     (name "right-front")
-    (music "music/darkforestkeep.ogg")
+    (music "music/castle/darkforestkeep.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")
@@ -492,7 +492,7 @@ wall.stop_moving()")
   )
   (sector
     (name "left-back")
-    (music "music/darkforestkeep.ogg")
+    (music "music/castle/darkforestkeep.ogg")
     (ambient-light 1 1 1)
     (bonusblock
       (script "found_block(\"house\")")
@@ -750,7 +750,7 @@ wall.stop_moving()")
   )
   (sector
     (name "right-back")
-    (music "music/darkforestkeep.ogg")
+    (music "music/castle/darkforestkeep.ogg")
     (ambient-light 1 1 1)
     (bonusblock
       (script "chal5 <- true")
@@ -1003,7 +1003,7 @@ plat2.goto_node(0)")
   )
   (sector
     (name "outside")
-    (music "music/chipdisko.ogg")
+    (music "music/antarctic/chipdisko.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)
@@ -1186,7 +1186,7 @@ plat2.goto_node(0)")
   )
   (sector
     (name "exit")
-    (music "music/chipdisko.ogg")
+    (music "music/antarctic/chipdisko.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)

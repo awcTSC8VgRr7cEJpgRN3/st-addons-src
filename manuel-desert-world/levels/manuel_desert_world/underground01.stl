@@ -6,7 +6,7 @@
   (target-time 90)
   (sector
     (name "main")
-    (music "music/cave.ogg")
+    (music "music/antarctic/cave.ogg")
     (ambient-light 0.5241932 0.5241932 0.5241932)
     (bonusblock
       (script "chal <- true")

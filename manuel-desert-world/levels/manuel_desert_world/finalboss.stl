@@ -196,7 +196,7 @@ Level.spawn(\"BOSS\",\"main\")")
   )
   (sector
     (name "BOSS")
-    (music "music/bossattack.ogg")
+    (music "music/antarctic/bossattack.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")

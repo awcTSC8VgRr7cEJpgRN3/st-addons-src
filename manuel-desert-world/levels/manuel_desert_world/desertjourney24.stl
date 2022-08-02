@@ -6,7 +6,7 @@
   (target-time 120)
   (sector
     (name "main")
-    (music "music/forest2.ogg")
+    (music "music/forest/forest2.ogg")
     (init-script "points <- 0")
     (ambient-light 1 1 1)
     (background

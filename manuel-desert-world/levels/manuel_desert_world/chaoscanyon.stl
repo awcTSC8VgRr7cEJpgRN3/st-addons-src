@@ -6,7 +6,7 @@
   (target-time 60)
   (sector
     (name "main")
-    (music "music/voc-daytime.ogg")
+    (music "music/antarctic/voc-daytime.ogg")
     (init-script "coins <- 0")
     (ambient-light 1 1 1)
     (bonusblock

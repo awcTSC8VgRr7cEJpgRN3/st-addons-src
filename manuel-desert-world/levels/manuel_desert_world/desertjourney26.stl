@@ -6,7 +6,7 @@
   (target-time 165)
   (sector
     (name "main")
-    (music "music/chipdisko.ogg")
+    (music "music/antarctic/chipdisko.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)
@@ -278,7 +278,7 @@ door4.goto_node(1)")
   )
   (sector
     (name "inside")
-    (music "music/greatgigantic.ogg")
+    (music "music/forest/greatgigantic.ogg")
     (ambient-light 0.5161364 0.5161364 0.5161364)
     (camera
       (mode "normal")
@@ -1349,7 +1349,7 @@ rightanswer.goto_node(1)")
   )
   (sector
     (name "exit")
-    (music "music/greatgigantic.ogg")
+    (music "music/forest/greatgigantic.ogg")
     (ambient-light 0.5176471 0.5176471 0.5176471)
     (background
       (speed 0.5)

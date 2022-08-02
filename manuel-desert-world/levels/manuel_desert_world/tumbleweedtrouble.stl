@@ -6,7 +6,7 @@
   (target-time 60)
   (sector
     (name "main")
-    (music "music/forest_theme.ogg")
+    (music "music/forest/forest_theme.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)
@@ -519,7 +519,7 @@ got_achievement(\"tumbleweed\")
   )
   (sector
     (name "cave")
-    (music "music/cave.ogg")
+    (music "music/antarctic/cave.ogg")
     (ambient-light 0.627451 0.627451 0.627451)
     (bouncingsnowball
       (direction "left")

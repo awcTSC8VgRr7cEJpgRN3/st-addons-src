@@ -6,7 +6,7 @@
   (target-time 120)
   (sector
     (name "main")
-    (music "music/salcon.ogg")
+    (music "music/antarctic/salcon.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)
@@ -456,7 +456,7 @@
   )
   (sector
     (name "inside")
-    (music "music/darkforestkeep.ogg")
+    (music "music/castle/darkforestkeep.ogg")
     (ambient-light 0.8627451 0.8627451 0.8627451)
     (camera
       (mode "normal")
@@ -756,7 +756,7 @@ Level.spawn(\"cellar\",\"here\")")
   )
   (sector
     (name "cellar")
-    (music "music/darkforestkeep.ogg")
+    (music "music/castle/darkforestkeep.ogg")
     (ambient-light 0.7843137 0.7843137 0.7843137)
     (bonusblock
       (script "found_block(\"entrance\")")

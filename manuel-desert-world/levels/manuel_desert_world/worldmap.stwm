@@ -6,7 +6,7 @@
   (target-time 0)
   (sector
     (name "main")
-    (music "music/salcon.ogg")
+    (music "music/antarctic/salcon.ogg")
     (init-script "if(state.desert_achievements.finalboss){
 Shortcut.fade(1,0)
 }

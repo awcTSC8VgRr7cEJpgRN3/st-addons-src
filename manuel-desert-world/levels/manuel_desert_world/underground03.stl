@@ -6,7 +6,7 @@
   (target-time 150)
   (sector
     (name "main")
-    (music "music/halloween_1.ogg")
+    (music "music/misc/halloween_1.ogg")
     (ambient-light 0.5254902 0.5254902 0.5254902)
     (bonusblock
       (script "found_block(\"buildway\")")

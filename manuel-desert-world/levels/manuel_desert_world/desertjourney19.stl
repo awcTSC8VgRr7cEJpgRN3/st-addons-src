@@ -6,7 +6,7 @@
   (target-time 90)
   (sector
     (name "main")
-    (music "music/forest_theme.ogg")
+    (music "music/forest/forest_theme.ogg")
     (ambient-light 1 1 1)
     (background
       (speed 0.5)
@@ -1814,7 +1814,7 @@
   )
   (sector
     (name "nr1")
-    (music "music/forest_theme.ogg")
+    (music "music/forest/forest_theme.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")
@@ -1940,7 +1940,7 @@
   )
   (sector
     (name "nr2")
-    (music "music/forest_theme.ogg")
+    (music "music/forest/forest_theme.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")
@@ -2175,7 +2175,7 @@
   )
   (sector
     (name "nr3")
-    (music "music/forest_theme.ogg")
+    (music "music/forest/forest_theme.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")
@@ -2293,7 +2293,7 @@
   )
   (sector
     (name "nr5")
-    (music "music/forest_theme.ogg")
+    (music "music/forest/forest_theme.ogg")
     (ambient-light 1 1 1)
     (bonusblock
       (script "found_block(\"hillvillage\")")
@@ -2506,7 +2506,7 @@
   )
   (sector
     (name "secret")
-    (music "music/forest_theme.ogg")
+    (music "music/forest/forest_theme.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")
@@ -2628,7 +2628,7 @@
   )
   (sector
     (name "nr4")
-    (music "music/forest_theme.ogg")
+    (music "music/forest/forest_theme.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")

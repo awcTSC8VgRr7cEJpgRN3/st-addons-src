@@ -6,7 +6,7 @@
   (target-time 390)
   (sector
     (name "main")
-    (music "music/cave.ogg")
+    (music "music/antarctic/cave.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")
@@ -2363,7 +2363,7 @@ block4.start_moving()")
   )
   (sector
     (name "difficult")
-    (music "music/greatgigantic.ogg")
+    (music "music/forest/greatgigantic.ogg")
     (ambient-light 1 1 1)
     (camera
       (mode "normal")
