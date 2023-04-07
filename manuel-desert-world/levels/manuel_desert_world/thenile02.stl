@@ -238,7 +238,6 @@
     )
     (coin
       (name "light")
-      (sprite "")
       (path
         (node
           (x 13312)
@@ -284,7 +283,6 @@
     )
     (coin
       (name "light")
-      (sprite "")
       (path
         (node
           (x 13664)
